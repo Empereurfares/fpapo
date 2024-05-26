@@ -46938,7 +46938,7 @@ $S:36}
 A.nT.prototype={
 an(){return new A.Cv(new A.BA(B.kJ,$.ax()),A.b([],t.H7),A.b([],t.s),A.aa_(),A.aa_(),B.j)}}
 A.Cv.prototype={
-aF(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d="http://localhost:3000",c=null,b="query"
+aF(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d="https://papolivre.onrender.com",c=null,b="query"
 e.b_()
 e.uv()
 e.w="Todos"
@@ -46952,7 +46952,7 @@ n=p.gfR(p)
 m=$.aqy.ao(0,o)&&$.aqy.h(0,o).d.ao(0,n)
 l=q.h(0,"forceNew")===!0||q.h(0,"force new connection")===!0||!1===q.h(0,"multiplex")||m
 k=A.bg("io")
-if(l){$.aEp().aY(B.r,"ignoring socket cache for http://localhost:3000",c,c)
+if(l){$.aEp().aY(B.r,"ignoring socket cache for https://papolivre.onrender.com",c,c)
 k.b=A.axU(q,d)}else{j=$.aqy.h(0,o)
 if(j==null){j=A.axU(q,d)
 $.aqy.n(0,o,j)}k.b=j}if(p.gqx(p).length!==0&&q.h(0,b)==null)q.n(0,b,p.gqx(p))
